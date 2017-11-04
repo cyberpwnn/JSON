@@ -1,4 +1,4 @@
-package surge.json;
+package org.cyberpwn.json;
 
 /**
  * The JSONException is thrown by the JSON.org classes when things are amiss.

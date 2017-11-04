@@ -1,4 +1,4 @@
-package surge.json;
+package org.cyberpwn.json;
 
 /**
  * The <code>JSONString</code> interface allows a <code>toJSONString()</code>

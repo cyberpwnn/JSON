@@ -1,4 +1,4 @@
-package surge.json;
+package org.cyberpwn.json;
 
 /*
 Copyright (c) 2002 JSON.org

@@ -1,4 +1,4 @@
-package surge.json;
+package org.cyberpwn.json;
 
 import java.io.IOException;
 import java.io.Writer;
